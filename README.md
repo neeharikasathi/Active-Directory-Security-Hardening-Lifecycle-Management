@@ -1,0 +1,2 @@
+# Active-Directory-Security-Hardening-Lifecycle-Management
+Enterprise-grade security hardening and lifecycle management project. Features a virtualised sandbox environment running Windows Server 2019 and Windows 10 client nodes. Orchestrates role-based access control across custom OUs and groups, and enforces strict NIST/CIS security compliance baselines via advanced Group Policy (GPO) engineering.
